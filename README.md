@@ -1,10 +1,23 @@
-# Build serverless, full stack applications in Azure
+<div align="center">
+<h3><img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="css3" width="45"> Desafio 6 (Python, Visual Studio Code, Banco de Dados SQL do Azure e Github Actions) do Bootcamp Back-End Python e Django - WoMakersCode ®
+ 
+<img align="right" width="150px" style="margin-top:-10px" src="https://user-images.githubusercontent.com/71572039/216510822-39114072-9905-4308-b0ee-3a4bddc8b76f.png">
+</div>
+</br>
+<div align="justify">
+ 
+- 👷🏻‍♀Desafio 6 (Python, Visual Studio Code, Banco de Dados SQL do Azure e Github Actions), proposto pelo Bootcamp Back-End Python e Django - WoMakersCode ® através de exercícios feitos por meio do Banco de Dados SQL do Azure, o Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code e Github Actions e programado em Python. Além disso, O desafio 6 foi realizado através do tutorial interativo da plataforma Microsoft Learn: https://aka.ms/azuremodernapps
 
-Learn how to create, build, and deploy modern full stack applications in Azure leveraging the language of your choice (Python, Node.js, or .NET) and with a simple JQuery frontend. Topics covered include modern database capabilities, CI/CD and DevOps, backend API development, REST, and more. Using a real-world scenario of trying to catch the bus, you will learn how to build a solution that leverages Azure SQL Database, Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code and GitHub Actions.
+</div>
 
-## Features
 
-This project features the following capabilities.
+# Criando aplicativos de pilha completa sem servidor no Azure
+
+Criação e implantação de aplicativos modernos de pilha completa no Azure. Os tópicos abordados incluem recursos modernos de banco de dados, CI/CD e DevOps. O Aplicativo aproveita o Banco de Dados SQL do Azure, o Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code e Github Actions.
+
+## Características
+
+Este projeto apresenta os seguintes recursos:
 
 - azure-sql-database
 - github-actions
@@ -14,16 +27,6 @@ This project features the following capabilities.
 - azure-app-service-static
 - azure-web-apps
 
-## Architecture
+## Arquitetura
 
 ![Solution Architecture](./documents/catch-the-bus-architecture.svg)
-
-## Getting Started
-
-### Microsoft Learn Path
-
-Learn  at your own pace, following the interactive tutorial, that will guide you through the building of the entire solution: https://aka.ms/azuremodernapps 
-
-### YouTube Video
-
-The authors discuss the architecture, the key points and the details of each technology used and each choice made: https://youtu.be/XBxBC959tLg
